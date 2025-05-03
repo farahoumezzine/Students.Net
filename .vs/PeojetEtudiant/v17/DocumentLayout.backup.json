@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|d:\\2eme dev\\s2\\.net\\projetetudiant\\peojetetudiant\\peojetetudiant\\views\\etudiant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|solutionrelative:peojetetudiant\\views\\etudiant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|d:\\2eme dev\\s2\\.net\\projetetudiant\\peojetetudiant\\peojetetudiant\\views\\etudiant\\etudiantsmajeurs22.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|solutionrelative:peojetetudiant\\views\\etudiant\\etudiantsmajeurs22.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|d:\\2eme dev\\s2\\.net\\projetetudiant\\peojetetudiant\\peojetetudiant\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|solutionrelative:peojetetudiant\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|d:\\2eme dev\\s2\\.net\\projetetudiant\\peojetetudiant\\peojetetudiant\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|solutionrelative:peojetetudiant\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|d:\\2eme dev\\s2\\.net\\projetetudiant\\peojetetudiant\\peojetetudiant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|solutionrelative:peojetetudiant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|d:\\2eme dev\\s2\\.net\\projetetudiant\\peojetetudiant\\peojetetudiant\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|solutionrelative:peojetetudiant\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|d:\\2eme dev\\s2\\.net\\projetetudiant\\peojetetudiant\\peojetetudiant\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|solutionrelative:peojetetudiant\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|d:\\2eme dev\\s2\\.net\\projetetudiant\\peojetetudiant\\peojetetudiant\\controllers\\classecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|solutionrelative:peojetetudiant\\controllers\\classecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|d:\\2eme dev\\s2\\.net\\projetetudiant\\peojetetudiant\\peojetetudiant\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|solutionrelative:peojetetudiant\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|d:\\2eme dev\\s2\\.net\\projetetudiant\\peojetetudiant\\peojetetudiant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|solutionrelative:peojetetudiant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|d:\\2eme dev\\s2\\.net\\projetetudiant\\peojetetudiant\\peojetetudiant\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|solutionrelative:peojetetudiant\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|d:\\2eme dev\\s2\\.net\\projetetudiant\\peojetetudiant\\peojetetudiant\\controllers\\etudiantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|solutionrelative:peojetetudiant\\controllers\\etudiantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|d:\\2eme dev\\s2\\.net\\projetetudiant\\peojetetudiant\\peojetetudiant\\models\\etudiants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|solutionrelative:peojetetudiant\\models\\etudiants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|d:\\2eme dev\\s2\\.net\\projetetudiant\\peojetetudiant\\peojetetudiant\\models\\classse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C565B0-FFD6-4E58-AA68-5D6EB667E7B7}|PeojetEtudiant\\PeojetEtudiant.csproj|solutionrelative:peojetetudiant\\models\\classse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1686296498:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PeojetEtudiant\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PeojetEtudiant\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T16:00:57.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PeojetEtudiant\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PeojetEtudiant\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T16:00:14.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PeojetEtudiant\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PeojetEtudiant\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T15:59:46.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PeojetEtudiant\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PeojetEtudiant\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T15:59:44.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PeojetEtudiant\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PeojetEtudiant\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T15:56:49.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EtudiantsMajeurs22.cshtml",
+              "DocumentMoniker": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Views\\Etudiant\\EtudiantsMajeurs22.cshtml",
+              "RelativeDocumentMoniker": "PeojetEtudiant\\Views\\Etudiant\\EtudiantsMajeurs22.cshtml",
+              "ToolTip": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Views\\Etudiant\\EtudiantsMajeurs22.cshtml",
+              "RelativeToolTip": "PeojetEtudiant\\Views\\Etudiant\\EtudiantsMajeurs22.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T12:41:50.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Views\\Etudiant\\Index.cshtml",
+              "RelativeDocumentMoniker": "PeojetEtudiant\\Views\\Etudiant\\Index.cshtml",
+              "ToolTip": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Views\\Etudiant\\Index.cshtml",
+              "RelativeToolTip": "PeojetEtudiant\\Views\\Etudiant\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T12:40:28.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PeojetEtudiant\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PeojetEtudiant\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:21:02.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\appsettings.json",
+              "RelativeDocumentMoniker": "PeojetEtudiant\\appsettings.json",
+              "ToolTip": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\appsettings.json",
+              "RelativeToolTip": "PeojetEtudiant\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T13:03:38.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClasseController.cs",
+              "DocumentMoniker": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Controllers\\ClasseController.cs",
+              "RelativeDocumentMoniker": "PeojetEtudiant\\Controllers\\ClasseController.cs",
+              "ToolTip": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Controllers\\ClasseController.cs",
+              "RelativeToolTip": "PeojetEtudiant\\Controllers\\ClasseController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:51:17.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EtudiantController.cs",
+              "DocumentMoniker": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Controllers\\EtudiantController.cs",
+              "RelativeDocumentMoniker": "PeojetEtudiant\\Controllers\\EtudiantController.cs",
+              "ToolTip": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Controllers\\EtudiantController.cs",
+              "RelativeToolTip": "PeojetEtudiant\\Controllers\\EtudiantController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAwwKgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:50:56.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PeojetEtudiant\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PeojetEtudiant\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:46:45.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Etudiants.cs",
+              "DocumentMoniker": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Models\\Etudiants.cs",
+              "RelativeDocumentMoniker": "PeojetEtudiant\\Models\\Etudiants.cs",
+              "ToolTip": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Models\\Etudiants.cs",
+              "RelativeToolTip": "PeojetEtudiant\\Models\\Etudiants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:44:33.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Classse.cs",
+              "DocumentMoniker": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Models\\Classse.cs",
+              "RelativeDocumentMoniker": "PeojetEtudiant\\Models\\Classse.cs",
+              "ToolTip": "D:\\2eme DEV\\S2\\.Net\\ProjetEtudiant\\PeojetEtudiant\\PeojetEtudiant\\Models\\Classse.cs",
+              "RelativeToolTip": "PeojetEtudiant\\Models\\Classse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:44:19.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<PeojetEtudiant.Models.Etudiants>
+
+@{
+    ViewData["Title"] = "Liste des étudiants";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col">
+            <h1 class="mb-4 text-center">@ViewData["Title"]</h1>
+
+            <table class="table table-bordered table-hover table-striped shadow-sm">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Nom</th>
+                        <th>Âge</th>
+                        <th>Classe</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var etudiant in Model)
+                    {
+                        <tr>
+                            <td>@etudiant.Nom</td>
+                            <td>@etudiant.Age</td>
+                            <td>@etudiant.Classe?.labelle</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <div class="text-end mt-4">
+                <a asp-action="EtudiantsMajeurs22" class="btn btn-primary btn-lg shadow-sm">
+                    Voir les étudiants &gt; 22 ans
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
